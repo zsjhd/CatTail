@@ -1,0 +1,1 @@
+const e={key:"v-71b3ae87",path:"/interview/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u9762\u8BD5 \u6211\u8FD8\u65E9\u5462",slug:"\u9762\u8BD5-\u6211\u8FD8\u65E9\u5462",children:[]}],git:{},filePathRelative:"interview/README.md"};export{e as data};

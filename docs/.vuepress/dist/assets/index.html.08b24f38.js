@@ -1,0 +1,1 @@
+const e={key:"v-70bc2959",path:"/algorithm/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u7B97\u6CD5",slug:"\u7B97\u6CD5",children:[{level:3,title:"\u529B\u62631",slug:"\u529B\u62631",children:[]}]}],git:{},filePathRelative:"algorithm/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-27086d08",path:"/fontend/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u524D\u7AEF",slug:"\u524D\u7AEF",children:[]}],git:{},filePathRelative:"fontend/README.md"};export{e as data};
